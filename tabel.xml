@@ -1,0 +1,101 @@
+<catalog>
+   <data>
+      <no>1</no>
+      <NIM>13.07.0085</NIM>
+      <Nama>MYCHAEL LEE</Nama>
+      <nilai1>80</nilai1>
+      <nilai2>80</nilai2>
+      <nilai3>80</nilai3>
+	  <RATA>80</RATA>
+   </data>
+   
+   <data>
+      <no>2</no>
+      <NIM>14.N2.0019</NIM>
+      <Nama>ANDREAS MAHARDIKA</Nama>
+      <nilai1>60</nilai1>
+      <nilai2>60</nilai2>
+      <nilai3>60</nilai3>
+	  <RATA>60</RATA>
+   </data>
+    
+   <data>
+      <no>3</no>
+      <NIM>14.N2.0039</NIM>
+      <Nama>BERNARDO ROSSY SANITYA PUTRA</Nama>
+      <nilai1>75</nilai1>
+      <nilai2>75</nilai2>
+      <nilai3>75</nilai3>
+	  <RATA>75</RATA>
+   </data>
+   
+   <data>
+      <no>4</no>
+      <NIM>15.N1.0001</NIM>
+      <Nama>YOSEPHAN REINALDO SUNARIYO</Nama>
+      <nilai1>55</nilai1>
+      <nilai2>55</nilai2>
+      <nilai3>55</nilai3>
+	  <RATA>55</RATA>
+   </data>
+      
+   <data>
+      <no>5</no>
+      <NIM>15.N1.0002</NIM>
+      <Nama>ADRIANUS HERMAWAN SUSANTO</Nama>
+      <nilai1>45</nilai1>
+      <nilai2>45</nilai2>
+      <nilai3>45</nilai3>
+	  <RATA>45</RATA>
+   </data>
+      
+   <data>
+      <no>6</no>
+      <NIM>15.N2.0003</NIM>
+      <Nama> SEVERINUS MARIO NIAN YANTRAGA</Nama>
+      <nilai1>68</nilai1>
+      <nilai2>68</nilai2>
+      <nilai3>68</nilai3>
+	  <RATA>68</RATA>
+   </data>
+      
+   <data>
+      <no>7</no>
+      <NIM>15.N2.0004</NIM>
+      <Nama>KEVIN THIOLA GIOVANNO CANDRA</Nama>
+      <nilai1>66</nilai1>
+      <nilai2>80</nilai2>
+      <nilai3>66</nilai3>
+	  <RATA>66</RATA>
+   </data>
+      
+   <data>
+      <no>8</no>
+      <NIM>15.N2.0005</NIM>
+      <Nama>EDWIN LEONARDO</Nama>
+      <nilai1>88</nilai1>
+      <nilai2>60</nilai2>
+      <nilai3>88</nilai3>
+	  <RATA>80</RATA>
+   </data>
+      
+   <data>
+      <no>9</no>
+      <NIM>15.N2.0006</NIM>
+      <Nama>MIKAEL DUHANTATYA</Nama>
+      <nilai1>88</nilai1>
+      <nilai2>75</nilai2>
+      <nilai3>88</nilai3>
+	  <RATA>85</RATA>
+   </data>
+      
+   <data>
+      <no>10</no>
+      <NIM>15.N2.0007</NIM>
+      <Nama>HERMANUS ADRIAN PURNAMA</Nama>
+      <nilai1>99</nilai1>
+      <nilai2>55</nilai2>
+      <nilai3>99</nilai3>
+	  <RATA>86</RATA>
+   </data>
+   </catalog>
